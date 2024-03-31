@@ -1,4 +1,4 @@
-# MPC for TMP36 sensor
+# MPC for temperature control
 
 In the folder Matlab Code there is a file for the MPC model in Simulink and the all the workspace variables needed to run the project.
 Also there is the Schematics file to see and understand all the connections needed for the project to work.
